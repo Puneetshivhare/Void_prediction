@@ -102,20 +102,7 @@ Void-Prediction-ML/
 ## Results
 The **Logistic Regression** model achieved a reasonable accuracy for simple linear relationships in the dataset, whereas the **Decision Tree** model captured more complex patterns in the data.
 
-Performance metrics:
-- **Accuracy**: 
-  - Logistic Regression: ~XX%
-  - Decision Tree: ~YY%
-- **Precision**: 
-  - Logistic Regression: ~XX%
-  - Decision Tree: ~YY%
-- **Recall**:
-  - Logistic Regression: ~XX%
-  - Decision Tree: ~YY%
-- **F1-Score**: 
-  - Logistic Regression: ~XX%
-  - Decision Tree: ~YY%
-
+accuracy around 85%
 Based on these metrics, the Decision Tree showed better overall performance in predicting voids, especially with non-linear relationships.
 
 ## Challenges and Improvements
